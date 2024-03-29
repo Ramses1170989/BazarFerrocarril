@@ -1,0 +1,31 @@
+[
+  {
+    "nombre": "Ramses",
+    "cantidad": 100
+  },
+  {
+    "nombre": "Raul",
+    "cantidad": 75
+  },
+  {
+    "nombre": "Alfonso",
+    "cantidad": 50
+  },
+  {
+    "nombre": "Josue",
+    "cantidad": 30
+  },
+  {
+    "nombre": "Jorge",
+    "cantidad": 20
+  },
+  {
+    "nombre": "Sum",
+    "cantidad": 22
+  },
+  {
+    "nombre": "Dan",
+    "cantidad": 20
+  }
+
+]
