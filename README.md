@@ -1,3 +1,6 @@
+- Diagramas de la arquitectura
+
+
 - Requerimientos para ejecutar el código
 1. NodeJS (Versión 18 o superior)
 2. Navegador web compatible con ECMAScript 6
