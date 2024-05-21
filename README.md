@@ -1,5 +1,8 @@
 - Diagramas de la arquitectura
-
+![Vista Logica](./vistalogica.png)
+![Casos de Uso](./casosdeuso.png)
+![Diagrama de Clases](./declases.png)
+![Vista Deployment](./vistadeploymennt.png)
 
 - Requerimientos para ejecutar el código
 1. NodeJS (Versión 18 o superior)
