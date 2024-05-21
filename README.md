@@ -1,14 +1,14 @@
 - Diagramas de la arquitectura
-- 
+Vista Logica  
 ![Vista Logica](./vistalogica.png)
 
-
+Casos de Uso
 ![Casos de Uso](./casosdeuso.png)
 
-
+Diagrama de clases
 ![Diagrama de Clases](./declases.png)
 
-
+Vista Deployment
 ![Vista Deployment](./vistadeploymennt.png)
 
 - Requerimientos para ejecutar el código
